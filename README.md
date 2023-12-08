@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">A passionate junior frontend developer from Italy</h3>
+<h3 align="center">A passionate junior web developer from Italy</h3>
 
 - 🌱 I’m currently learning **PHP**
 
