@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A junior developer from Italy</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **saraverdigi3@gmail.com**
 
